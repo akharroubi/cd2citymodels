@@ -1,2 +1,7 @@
-# cd2citymodels
-Automated Change Detection and 3D reconstruction of Buildings and Vegetation using LiDAR Point Clouds
+## Overview
+cd2citymodels is a tool for automated 3D city model reconstruction and change detection using LiDAR point clouds.
+
+## Coming Soon
+The detailed methodology, results, and source code will be released following the publication of our paper. 
+
+
